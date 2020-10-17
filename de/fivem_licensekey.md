@@ -6,7 +6,7 @@ sidebar_label: Eigener Lizenzkey
 
 ## Wieso brauche ich einen Key?
 
-Ein Key wird benötigt, wenn z. B. die [FiveM Patreon](https://patreon.com/fivem) Vorteile gekauft wurden, um Onesync freizuschalten, oder wenn das Nucleus Interface den falschen Gameserver anzeigt.
+Ein Key wird benötigt, wenn z. B. die [FiveM Patreon](https://patreon.com/fivem) Vorteile gekauft wurden, um Onesync freizuschalten, oder wenn das Nucleus Interface den falschen Gameserver anzeigt 123.
 
 ## Vorbereitung
 Um einen eigenen Lizenzkey zu erstellen, melden wir uns zunächst auf https://keymaster.fivem.net an, wenn noch kein FiveM Forum Account erstellt wurde, muss hier nun einer erstellt werden.
